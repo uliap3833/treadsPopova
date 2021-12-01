@@ -1,0 +1,15 @@
+﻿  WINapiTreadsWatch.cpp
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(61,59): error C4576: Тип в круглых скобках, за которым следует список инициализаторов, не является стандартным синтаксисом явного преобразования типа.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(61,48): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(61,54): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(67,59): error C4576: Тип в круглых скобках, за которым следует список инициализаторов, не является стандартным синтаксисом явного преобразования типа.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(67,48): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(67,54): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(155,35): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(173,4): error C2361: пропуск инициализации "sec" из-за метки "default"
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(150): message : см. объявление "sec"
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(232,27): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(238,35): error C4576: Тип в круглых скобках, за которым следует список инициализаторов, не является стандартным синтаксисом явного преобразования типа.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(238,24): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Юлика програмки\Юлика дз\Курсач Чирков\WINapiTreadsWatch-master\WINapiTreadsWatch.cpp(238,30): error C2397: Преобразование из "int" в "SHORT" требует сужающего преобразования.
